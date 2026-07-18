@@ -1,7 +1,7 @@
 # Exoesqueleto-mano-control-3D
 Prototipo CAD en Autodesk Inventor de un guante exoesqueleto robótico basado en un sistema maestro controlando potenciómetros a base del movimiento de los dedos.
 
-Imprimmir catidad:
+Imprimmir catidad [Escala 1:1]:
 - 1 Palma_mano_3D
 - 5 Palanca_potenciometro
 - 5 Palanca_barra
